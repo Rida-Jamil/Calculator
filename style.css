@@ -1,0 +1,38 @@
+.main {
+    border: 7px double goldenrod;
+    border-radius: 15px;
+    width: 310px;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+.input {
+    width: 100%;
+    background-color: goldenrod;
+    border-radius: 10px;
+    color: blanchedalmond;
+}
+
+.Clr-btn {
+    width: 60%;
+    margin-top: 10px;
+    background-color: bisque;
+    border-radius: 10px;
+    margin-left: 65px;
+}
+
+.btn {
+    background-color: bisque;
+    width: 55px;
+    margin: 4px;
+    margin-left: 10px
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important; 
+    margin-top: 130px !important;
+    font-style: italic !important;
+    text-decoration: underline !important;
+    color: brown !important;
+}
